@@ -1,2 +1,2 @@
-# CountDown
+# CountDown Clock 
 JavaScript, HTML
